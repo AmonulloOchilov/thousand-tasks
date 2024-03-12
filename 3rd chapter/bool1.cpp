@@ -5,4 +5,4 @@ int main(){
     cin>>a;
     bool b = a>0;
     cout<<b;
-}
+} 
