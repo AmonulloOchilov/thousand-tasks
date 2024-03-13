@@ -1,3 +1,6 @@
+/*Given two integers A and B, verify the following proposition: ―The
+inequalities A > 2 and B ≤ 3 both are fulfilled‖
+.*/
 #include<iostream>
 using namespace std;
 int main(){
